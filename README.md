@@ -1,7 +1,8 @@
 
 Author : Juan Merlo Romero 
 
-Source : [Thomas Bondois](http://thomas.bondois.info/ - https://github.com/tbondois/bee-massacre)
+Source : [Thomas Bondois](http://thomas.bondois.info/)
+         [Original Repo](https://github.com/tbondois/bee-massacre)
 
 Note:  A fork was intended for this small project but would have required a pull request, 
 only providing minor changes to the original application. For that reason original idea is cited as source. 
